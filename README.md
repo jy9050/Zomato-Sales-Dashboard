@@ -33,4 +33,5 @@
 ---
 
 ### 📬 Connect With Me
-If you like this project, feel free to ⭐ the repo and connect with me on [LinkedIn](linkedin.com/in/jyoti-kashyap-58a32336b).
+If you like this project, feel free to ⭐ the repo and connect with me on [LinkedIn](https://www.linkedin.com/in/jyoti-kashyap-58a32336b
+).
